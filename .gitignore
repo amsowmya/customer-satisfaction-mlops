@@ -7,6 +7,8 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+.zen
+venv/
 .Python
 build/
 develop-eggs/
